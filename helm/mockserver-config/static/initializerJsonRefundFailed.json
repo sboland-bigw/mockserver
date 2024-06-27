@@ -16,7 +16,6 @@
             "id": "4c0be116-7b0d-4552-92c9-eb503c431984",
             "name": "bin-lookup-request",
             "created_at": "2024-06-16T19:23:00.000+00:00",
-            "created_at": "2024-06-16T19:23:00.000+00:00",
             "context": {
               "decision": "accept"
             }
@@ -41,7 +40,7 @@
       "statusCode": 200,
       "body": {
         "id": "4c0be116-7b0d-4552-92c9-eb503c431984",
-        "amount": 1890,
+        "amount": 1000,
         "status": "authorization_succeeded",
         "pending_review": false
       }
@@ -65,7 +64,7 @@
       "statusCode": 200,
       "body": {
         "id": "4c0be116-7b0d-4552-92c9-eb503c431984",
-        "amount": 1890,
+        "amount": 1000,
         "status": "capture_succeeded",
         "pending_review": false
       }
@@ -89,7 +88,7 @@
       "statusCode": 200,
       "body": {
         "id": "8724fd24-5489-4a5d-90fd-0604df7d3b83",
-        "amount": 1299,
+        "amount": 1000,
         "transaction_id": "4c0be116-7b0d-4552-92c9-eb503c431984",
         "status": "failed"
       }

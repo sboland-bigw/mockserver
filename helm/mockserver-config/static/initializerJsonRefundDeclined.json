@@ -40,7 +40,7 @@
       "statusCode": 200,
       "body": {
         "id": "78e203cf-73ba-48ab-8977-0543d124e5c0",
-        "amount": 1890,
+        "amount": 1000,
         "status": "authorization_succeeded",
         "pending_review": false
       }
@@ -64,7 +64,7 @@
       "statusCode": 200,
       "body": {
         "id": "78e203cf-73ba-48ab-8977-0543d124e5c0",
-        "amount": 1890,
+        "amount": 1000,
         "status": "capture_succeeded",
         "pending_review": false
       }
@@ -88,7 +88,7 @@
       "statusCode": 200,
       "body": {
         "id": "8724fd24-5489-4a5d-90fd-0604df7d3b83",
-        "amount": 1299,
+        "amount": 1000,
         "transaction_id": "78e203cf-73ba-48ab-8977-0543d124e5c0",
         "status": "declined"
       }

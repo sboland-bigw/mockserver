@@ -40,7 +40,7 @@
       "statusCode": 200,
       "body": {
         "id": "46a8807b-0c4e-46bf-8ce8-42ca8afb22b9",
-        "amount": 1890,
+        "amount": 1000,
         "status": "authorization_succeeded",
         "pending_review": false
       }
@@ -64,7 +64,7 @@
       "statusCode": 200,
       "body": {
         "id": "46a8807b-0c4e-46bf-8ce8-42ca8afb22b9",
-        "amount": 1890,
+        "amount": 1000,
         "status": "authorization_declined",
         "pending_review": false
       }
