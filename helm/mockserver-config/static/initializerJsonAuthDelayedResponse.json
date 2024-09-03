@@ -40,9 +40,13 @@
       "statusCode": 200,
       "body": {
         "id": "de8b5711-55f3-492d-a452-93769aecfd36",
-        "amount": 1000,
-        "status": "authorization_declined",
+        "amount": 3500,
+        "status": "authorization_succeeded",
         "pending_review": false
+      },
+      "delay": {
+        "timeUnit": "SECONDS",
+        "value": 12
       }
     }
   }
