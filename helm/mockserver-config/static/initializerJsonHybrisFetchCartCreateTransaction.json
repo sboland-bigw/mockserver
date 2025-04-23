@@ -31,7 +31,7 @@
             "unitPrice": "12.0"
           }
         ],
-        "deviceFingerprint": "AUBW274180193",
+        "deviceFingerprint": "AUBW274181264",
         "merchantDefinedData": {
           "ageOfAccount": 532,
           "deliveryState": "NSW",
@@ -76,7 +76,7 @@
         "transactions": [
           {
             "amount": 36.50,
-            "transactionId": "f61716af-1653-432f-8c28-58238356a84x",
+            "transactionId": "f61716af-1653-432f-8c28-58238356a82x",
             "transactionStatus": "ACCEPTED",
             "transactionType": "AUTHORIZATION"
           }

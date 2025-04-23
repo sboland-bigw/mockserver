@@ -13,7 +13,7 @@
         "items": [
           {
             "type": "transaction-event",
-            "id": "42d54617-92eb-4450-a6f5-7d49f87a8759",
+            "id": "a7d4f313-53bb-4403-9c85-ef83e8a88062",
             "name": "bin-lookup-request",
             "created_at": "2024-06-16T19:23:00.000+00:00",
             "context": {
@@ -39,7 +39,7 @@
     "httpResponse": {
       "statusCode": 200,
       "body": {
-        "id": "42d54617-92eb-4450-a6f5-7d49f87a8759",
+        "id": "a7d4f313-53bb-4403-9c85-ef83e8a88062",
         "amount": 1590,
         "status": "authorization_succeeded",
         "pending_review": false
@@ -63,9 +63,9 @@
     "httpResponse": {
       "statusCode": 200,
       "body": {
-        "id": "42d54617-92eb-4450-a6f5-7d49f87a8759",
+        "id": "a7d4f313-53bb-4403-9c85-ef83e8a88062",
         "amount": 1590,
-        "status": "authorization_succeeded"
+        "status": "capture_pending"
       }
     }
   },
@@ -80,9 +80,9 @@
     "httpResponse": {
       "statusCode": 200,
       "body": {
-        "id": "42d54617-92eb-4450-a6f5-7d49f87a8759",
+        "id": "a7d4f313-53bb-4403-9c85-ef83e8a88062",
         "amount": 1590,
-        "status": "capture_succeeded"
+        "status": "capture_pending"
       }
     }
   }

@@ -13,7 +13,7 @@
         "items": [
           {
             "type": "transaction-event",
-            "id": "42d54617-92eb-4450-a6f5-7d49f87a8759",
+            "id": "2c478ed9-6a1b-4e62-a1f2-afdcb69f943b",
             "name": "bin-lookup-request",
             "created_at": "2024-06-16T19:23:00.000+00:00",
             "context": {
@@ -39,7 +39,7 @@
     "httpResponse": {
       "statusCode": 200,
       "body": {
-        "id": "42d54617-92eb-4450-a6f5-7d49f87a8759",
+        "id": "2c478ed9-6a1b-4e62-a1f2-afdcb69f943b",
         "amount": 1590,
         "status": "authorization_succeeded",
         "pending_review": false
@@ -63,9 +63,10 @@
     "httpResponse": {
       "statusCode": 200,
       "body": {
-        "id": "42d54617-92eb-4450-a6f5-7d49f87a8759",
+        "id": "2c478ed9-6a1b-4e62-a1f2-afdcb69f943b",
         "amount": 1590,
-        "status": "authorization_succeeded"
+        "status": "capture_pending",
+        "pending_review": false
       }
     }
   },
@@ -80,9 +81,9 @@
     "httpResponse": {
       "statusCode": 200,
       "body": {
-        "id": "42d54617-92eb-4450-a6f5-7d49f87a8759",
+        "id": "2c478ed9-6a1b-4e62-a1f2-afdcb69f943b",
         "amount": 1590,
-        "status": "capture_succeeded"
+        "status": "authorization_declined"
       }
     }
   }
